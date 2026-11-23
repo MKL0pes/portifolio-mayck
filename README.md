@@ -11,7 +11,7 @@ Portfólio pessoal feito do zero com HTML, CSS e JavaScript puros, sem framework
 ![JavaScript](https://img.shields.io/badge/JavaScript-puro-F7DF1E?logo=javascript&logoColor=black)
 ![Dependências](https://img.shields.io/badge/dependências-0-6fcf97)
 
-[Ver o portfólio online](https://mkl0pes.github.io/SEU-REPOSITORIO/) · [LinkedIn](https://www.linkedin.com/in/mayck-lopes-2123253b6/) · [GitHub](https://github.com/MKL0pes)
+[Ver o portfólio online](https://mkl0pes.github.io/portifolio-mayck/) · [LinkedIn](https://www.linkedin.com/in/mayck-lopes-2123253b6/) · [GitHub](https://github.com/MKL0pes)
 
 </div>
 
